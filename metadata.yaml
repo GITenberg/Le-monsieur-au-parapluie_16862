@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6979'
     url: http://www.gutenberg.org/2009/agents/6979
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16862#Le-monsieur-au-parapluie
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-10-12'
 gutenberg_type: Text
